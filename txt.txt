@@ -1,2 +1,2 @@
 abcd
-pull works *2
+pull works *3
