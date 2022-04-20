@@ -1,4 +1,4 @@
 abcd
 pull works *3
 test for branch *2
-test fetch
+test fetch *2
